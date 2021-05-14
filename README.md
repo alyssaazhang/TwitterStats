@@ -1,7 +1,7 @@
 # TwitterStats
 Used Twitter APIs (Search, Streaming, Trends) to learn Data Mining and storing/retrieving JSON documents in MongoDB.
 
-Tools: OpenMapQuest API, Twitter APIs, MongoDB, JSON, Python libraries (tweepy, wordcloud, geopy, folium, pandas)
+Tools: MapQuest Geocoding API, Twitter APIs, MongoDB, JSON, Python libraries (tweepy, wordcloud, geopy, folium, pandas)
 
 **Data Mining**
 - Performed data cleaning on top trending topics in Toronto to create a word cloud (Natural Language Processing)
